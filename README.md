@@ -1,7 +1,5 @@
 ## Bootcamp Everis FullStack Developer da [Digital Innovation One](https://digitalinnovation.one)
 
----
-
 > Projeto: Recriando a página inicial do Instagram
 
 Projeto de página de login do Instragram: Nesse Projeto, foi abordado o conceito sobre CSS Flexbox.
