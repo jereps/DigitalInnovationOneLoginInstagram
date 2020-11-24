@@ -7,7 +7,7 @@ Projeto de página de login do Instragram: Nesse Projeto, foi abordado o conceit
 - alterado cor de fundo para combinar com a imagem.
 - alterado tamanho da imagem do profile.
 - cor de fundo para tamanho de celular continua o mesmo.
-- alerado cor dos groups para combinar com a cor de fundo.
+- alterado cor dos groups para combinar com a cor de fundo.
 - colocado atribuição da imagem utilizada para celular
 
 ![alt](img/final.jpg)
